@@ -3,7 +3,7 @@
 ### About me:
 🧑‍🎓 Started studying Software Engineering in February 2022 at 42 Wolfsburg  
 
-🪙 Passionate about DLT/Blockchain and Crypto  
+🏦 Passionate about DLT/Blockchain and Crypto  
 
 ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) Campus Ambassador Spring 2023  
 
