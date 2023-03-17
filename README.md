@@ -1,16 +1,16 @@
-## Hi there 👋 in this repo you can find some of my school projects
+## Hi there 👋 in this repo you can find a selection of my school projects
 
 ### About me:
 🧑‍🎓 Started studying Software Engineering in February 2022 at 42 Wolfsburg  
 
-🏦 Passionate about DLT/Blockchain and Crypto  
+🏦 Passionate about DLT/Blockchain, Crypto, Fintech and the Future of Finance  
 
 ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) Campus Ambassador Spring 2023  
 
 🏋️ Health and Fitness Expert  
 
 ### What I know:  
-[![My Skills](https://skillicons.dev/icons?i=cpp,vscode,git,github)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=cpp,vscode,git,github,docker)](https://skillicons.dev)  
 
 ### What I am learning:  
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  
