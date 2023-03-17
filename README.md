@@ -1,7 +1,7 @@
 ## Hi there 👋 in this repo you can find a selection of my school projects
 
 ### About me:
-🧑‍🎓 Started studying Software Engineering in February 2022 at 42 Wolfsburg  
+🧑‍🎓 Started studying Software Engineering in February 2022 at [**42 Wolfsburg**](https://42wolfsburg.de/) 
 
 🏦 Passionate about DLT/Blockchain, Crypto, Fintech and the Future of Finance  
 
