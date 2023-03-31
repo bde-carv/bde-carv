@@ -7,8 +7,6 @@
 
 ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) Campus Ambassador Spring 2023  
 
-🏋️ Health and Fitness Expert  
-
 ### What I know:  
 [![My Skills](https://skillicons.dev/icons?i=cpp,vscode,git,github,docker)](https://skillicons.dev)  
 
