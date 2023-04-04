@@ -3,6 +3,8 @@
 ### About me:
 🧑‍🎓 Started studying Software Engineering in February 2022 at [**42 Wolfsburg**](https://42wolfsburg.de/) 
 
+🧑‍🎓 Student of B.Sc. in Sustainable Agriculture  
+
 🏦 Passionate about DLT/Blockchain, Crypto, Fintech and the Future of Finance  
 
 ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) Campus Ambassador Spring 2023  
