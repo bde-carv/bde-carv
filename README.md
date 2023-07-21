@@ -1,7 +1,7 @@
 ## Hi there 👋 in this repo you can find a selection of my school projects
 
 ### About me:
-🧑‍🎓 Alumni of [**42 Wolfsburg**](https://42wolfsburg.de/) 
+🧑‍🎓 Studying Software Engineering at [**42 Wolfsburg**](https://42wolfsburg.de/) 
 
 🧑‍🎓 Student of B.Sc. in Sustainable Agriculture  
 
