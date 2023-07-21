@@ -1,11 +1,11 @@
 ## Hi there 👋 in this repo you can find a selection of my school projects
 
 ### About me:
-🧑‍🎓 Started studying Software Engineering in February 2022 at [**42 Wolfsburg**](https://42wolfsburg.de/) 
+🧑‍🎓 Alumni of [**42 Wolfsburg**](https://42wolfsburg.de/) 
 
 🧑‍🎓 Student of B.Sc. in Sustainable Agriculture  
 
-🏦 Passionate about DLT/Blockchain, Crypto, Fintech and the Future of Finance  
+🏦 Passionate about DLT/Blockchain and Digitalization of Agriculture 
 
 ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) Campus Ambassador Spring 2023  
 
