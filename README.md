@@ -3,8 +3,6 @@
 ### About me:
 🧑‍🎓 Studying Software Engineering at [**42 Wolfsburg**](https://42wolfsburg.de/) 
 
-🧑‍🎓 Student of B.Sc. in Sustainable Agriculture  
-
 🏦 Passionate about DLT/Blockchain and Digitalization of Agriculture 
 
 ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) Campus Ambassador Spring 2023  
