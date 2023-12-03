@@ -3,7 +3,7 @@
 ### About me:
 🧑‍🎓 Studying Software Engineering at [**42 Wolfsburg**](https://42wolfsburg.de/) 
 
-🏦 Passionate about DLT/Blockchain and Digitalization of Agriculture 
+🏦 Passionate about DLT/Blockchain and Web3
 
 ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) Campus Ambassador Spring 2023  
 
